@@ -1,0 +1,14 @@
+C:\Users\opilane\source\repos\IKTpe25TARProgemine1\eNum\eNum\bin\Debug\net9.0\eNum.exe
+C:\Users\opilane\source\repos\IKTpe25TARProgemine1\eNum\eNum\bin\Debug\net9.0\eNum.deps.json
+C:\Users\opilane\source\repos\IKTpe25TARProgemine1\eNum\eNum\bin\Debug\net9.0\eNum.runtimeconfig.json
+C:\Users\opilane\source\repos\IKTpe25TARProgemine1\eNum\eNum\bin\Debug\net9.0\eNum.dll
+C:\Users\opilane\source\repos\IKTpe25TARProgemine1\eNum\eNum\bin\Debug\net9.0\eNum.pdb
+C:\Users\opilane\source\repos\IKTpe25TARProgemine1\eNum\eNum\obj\Debug\net9.0\eNum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\opilane\source\repos\IKTpe25TARProgemine1\eNum\eNum\obj\Debug\net9.0\eNum.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\IKTpe25TARProgemine1\eNum\eNum\obj\Debug\net9.0\eNum.AssemblyInfo.cs
+C:\Users\opilane\source\repos\IKTpe25TARProgemine1\eNum\eNum\obj\Debug\net9.0\eNum.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\IKTpe25TARProgemine1\eNum\eNum\obj\Debug\net9.0\eNum.dll
+C:\Users\opilane\source\repos\IKTpe25TARProgemine1\eNum\eNum\obj\Debug\net9.0\refint\eNum.dll
+C:\Users\opilane\source\repos\IKTpe25TARProgemine1\eNum\eNum\obj\Debug\net9.0\eNum.pdb
+C:\Users\opilane\source\repos\IKTpe25TARProgemine1\eNum\eNum\obj\Debug\net9.0\eNum.genruntimeconfig.cache
+C:\Users\opilane\source\repos\IKTpe25TARProgemine1\eNum\eNum\obj\Debug\net9.0\ref\eNum.dll

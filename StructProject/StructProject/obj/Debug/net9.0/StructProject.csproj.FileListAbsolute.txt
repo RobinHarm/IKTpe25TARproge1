@@ -1,0 +1,15 @@
+C:\Users\opilane\source\repos\IKTpe25TARproge1\StructProject\StructProject\bin\Debug\net9.0\StructProject.exe
+C:\Users\opilane\source\repos\IKTpe25TARproge1\StructProject\StructProject\bin\Debug\net9.0\StructProject.deps.json
+C:\Users\opilane\source\repos\IKTpe25TARproge1\StructProject\StructProject\bin\Debug\net9.0\StructProject.runtimeconfig.json
+C:\Users\opilane\source\repos\IKTpe25TARproge1\StructProject\StructProject\bin\Debug\net9.0\StructProject.dll
+C:\Users\opilane\source\repos\IKTpe25TARproge1\StructProject\StructProject\bin\Debug\net9.0\StructProject.pdb
+C:\Users\opilane\source\repos\IKTpe25TARproge1\StructProject\StructProject\obj\Debug\net9.0\StructProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\opilane\source\repos\IKTpe25TARproge1\StructProject\StructProject\obj\Debug\net9.0\StructProject.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\IKTpe25TARproge1\StructProject\StructProject\obj\Debug\net9.0\StructProject.AssemblyInfo.cs
+C:\Users\opilane\source\repos\IKTpe25TARproge1\StructProject\StructProject\obj\Debug\net9.0\StructProject.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\IKTpe25TARproge1\StructProject\StructProject\obj\Debug\net9.0\StructProject.sourcelink.json
+C:\Users\opilane\source\repos\IKTpe25TARproge1\StructProject\StructProject\obj\Debug\net9.0\StructProject.dll
+C:\Users\opilane\source\repos\IKTpe25TARproge1\StructProject\StructProject\obj\Debug\net9.0\refint\StructProject.dll
+C:\Users\opilane\source\repos\IKTpe25TARproge1\StructProject\StructProject\obj\Debug\net9.0\StructProject.pdb
+C:\Users\opilane\source\repos\IKTpe25TARproge1\StructProject\StructProject\obj\Debug\net9.0\StructProject.genruntimeconfig.cache
+C:\Users\opilane\source\repos\IKTpe25TARproge1\StructProject\StructProject\obj\Debug\net9.0\ref\StructProject.dll
